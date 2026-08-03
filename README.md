@@ -8,7 +8,7 @@ Everything documented here uses publicly available information only. Findings ar
 
 ## Investigations
 
-- [Anatomy of a Phishing Campaign: An Email Targeting My University](phishing-investigation-article.md) — a fake tuition invoice, an AI-generated PDF, and two compromised school domains.
+- [Anatomy of a Phishing Campaign: An Email Targeting My University](phising/phishing-investigation-article.md) — a fake tuition invoice, an AI-generated PDF, and two compromised school domains.
 
 ## On the use of AI
 
