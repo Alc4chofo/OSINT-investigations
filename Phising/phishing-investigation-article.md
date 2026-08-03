@@ -43,9 +43,7 @@ And it comes back as AI-generated.
 
 ## 4. The metadata
 
-<!-- Add the metadata screenshot here if you have one:
 ![Document metadata showing a different author](images/07-document-metadata.png)
--->
 
 Then we look at the document's metadata. Apparently it's no longer "Carolyn Moore" (48784.pai@student.nssc.ac.th) who sent it, but rather "Mohhamed K Abdulkareem".
 
